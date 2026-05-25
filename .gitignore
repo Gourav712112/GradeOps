@@ -1,0 +1,13 @@
+# Python Environment & Cache Files
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Databases
+*.db
+*.sqlite3
+
+# Node Modules (Backup safety)
+node_modules/
+dist/
